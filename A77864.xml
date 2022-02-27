@@ -1,0 +1,143 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>To the honourable the knights, citizens and burgesses of the Commons-House of Parliament the humble petition of sundry ministers intrusted to solicite the petition and remonstrance formerly exhibited to this Honourable House, and of many of their brethren, most humbly sheweth, ...</title>
+            <author>Burges, Cornelius, 1589?-1665.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1641</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 11 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A77864</idno>
+            <idno type="STC">Wing B5686A</idno>
+            <idno type="STC">Thomason 669.f.4[37]</idno>
+            <idno type="STC">ESTC R13458</idno>
+            <idno type="EEBO-CITATION">99859475</idno>
+            <idno type="PROQUEST">99859475</idno>
+            <idno type="VID">160659</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A77864)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 160659)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 245:669f4[37])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>To the honourable the knights, citizens and burgesses of the Commons-House of Parliament the humble petition of sundry ministers intrusted to solicite the petition and remonstrance formerly exhibited to this Honourable House, and of many of their brethren, most humbly sheweth, ...</title>
+                  <author>Burges, Cornelius, 1589?-1665.</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.)   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Iohn Bellamie and Ralph Smith,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1641.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Anonymous. By Cornelius Burges.</note>
+                  <note>Identified as Wing B5641 on UMI microfilm set "Early English books, 1641-1700".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Church of England --  Government --  Early works to 1800.</term>
+               <term>Church of England. --  Book of common prayer --  Early works to 1800.</term>
+               <term>Church and state --  Great Britain --  History --  17th century.</term>
+               <term>Great Britain --  Church history --  17th century --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-07</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2011-07</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="petition">
+            <pb facs="tcp:160659:1"/>
+            <head>TO THE HONOURABLE THE KNIGHTS, CITIZENS AND BVRGESSES OF THE COMMONS HOVSE OF <hi>PARLIAMENT:</hi> The humble Petition of ſundry Miniſters intruſted to ſolicite the Petition and Remonſtrance formerly exhibited to this Honourable Houſe, and of many of their Brethren, moſt humbly ſheweth,</head>
+            <p>
+               <seg rend="decorInit">T</seg>Hat the Petitioners doe moſt thankfully value and heartily acknowledge the indefatigable paines and Piety of this Honourable Aſſembly, manifeſted in very many things of high concernment for the glory of God, the honour of the King, the purging of the Church, and the ſafety and proſperity of this and the reſt of his Majeſties Kingdomes; but more eſpecially, in procuring that publique <hi>Faſt</hi> at your firſt Sitting, which hath prevented many miſchiefes, and drawne downe many bleſſings upon the Kingdome ever ſince: In your zeale and courage for the true Religion profeſſed among us againſt all Popiſh Idolatry and Su<g ref="char:EOLhyphen"/>perſtitious Innovations expreſſed by your noble and Religious <hi>Proteſtation</hi> and <hi>Vow:</hi> In countenancing the Sacred Ordinance of Preaching after long and deepe contempt caſt upon it by too many who had almoſt exiled it from divers parts of this Kingdome: In encouraging painfull and godly Miniſters formerly ſet aſide, and now againe profitably imployed in many Congregations greatly needing them: In diſcountenancing bold and unmeete men, that without ſufficient Calling have preſumptu<g ref="char:EOLhyphen"/>ouſly intruded into that holy Office,, as alſo of all unworthy and ſcandalous Miniſters that have beene convented before you: In accepting a former <hi>Petition</hi> and <hi>Remonſtrance</hi> from the Petitioners, taking the ſame into your grave Conſideration, and vigorouſly proſecuting ſome part thereof: In freeing divers godly Miniſters out of P<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>iſon, and exile, and many others from heavie Cenſures unjuſtly inflicted: In preventing the utter ruine of the Petitioners, and of many moe, by breaking that wicked Yoke or the late pernitious <hi>Oath</hi> and <hi>Canons</hi> juſtly branded by both Houſes of Parliament, and by taking away the late dreadfull tyranny of the <hi>High Commiſſion</hi> Court, and other ille<g ref="char:EOLhyphen"/>gall and heavie preſſures of the reſt of the Courts Eccleſiaſticall: In your worthy Orders for removing of all illegall Rites and Ceremonies, ſuperſtitious and ſcandalous Images and Pictures, and other Innovations out of all Churches and Chappels: In your prudent, happy, and timely reuniting (without ſpilling of Chriſtian bloud) of the two Kingdomes of <hi>England</hi> and <hi>Scotland</hi> in a firme and religious Peace unhappily diſturbed to the apparant endangering of both: In your honourable endeavours to re<g ref="char:EOLhyphen"/>lieve and reſcue our diſtreſſed brethren in <hi>Ireland</hi> from the barbarous outrages and butcheries of the Popiſh Rebels there: In your conſtant vigilancie to diſcover and defeate the many deſperate and diviliſh Conſpiracies and Treaſons againſt the King, Parliament, and the Kingdome, plotted by Papiſts and their malignant Adherents, implaca<g ref="char:EOLhyphen"/>ble Enemies to our Religion and Peace. Together with all other your excellent labours for reforming and ſetling the Affaires of the Common-wealth, whereof the Petiti<g ref="char:EOLhyphen"/>oners doe alſo with others enjoy the comfort: and the large and bleſſed hopes given to the Petitioners of your further endeavours for perfecting the Reformation of Religi<g ref="char:EOLhyphen"/>on and the Church according to the neceſſity thereof, in a way beſt becomming the Honour of ſuch a Grave and Religious Body. All of which doe much encourage them to powre out their ſoules in all poſſible thankfulneſſe unto God for you, and to put up more fervent prayers, publiquely, and privately, upon all occaſions, on your behalfe, at the Throne of Grace.</p>
+            <p>But ſo it is, that whereas the Petitioners did, in their former Petition repreſent unto you divers unſufferable grievances ariſing from ſundry Invaſions made upon the publi<g ref="char:EOLhyphen"/>que <hi>Doctrine</hi> of this Church, from ſome mixtures and blemiſhes in the publique Worſhip of God by Law eſtabliſhed, as well as from ſundry groſſe Innovations &amp; Superſtitions in Rites and <hi>Ceremonies</hi> without Law introduced, from many Exorbitances and unſupportable Vſurpations in <hi>Eccleſiaſticall Government,</hi> and from the ſcandalous defect of <hi>Miniſters Maintenance</hi> in too many places: All, or moſt of which doe yet remaine in greateſt part unremoved, by reaſon of your many neceſſitated diverſions from this great Worke, for the preſervation of the very Being of this Kingdome. And, by meanes hereof, many diſtractions and diſorders about matters of Religion and the Church have, to the great ſcandall and griefe of the Petitioners, happened, and are ſtill continued; which puts them upon a neceſſity of renewing their former ſuit for redreſſe of the afore<g ref="char:EOLhyphen"/>ſaid evils, and for removing what ever ſhall appeare to your Wiſdome to be the roote and cauſe of them.</p>
+            <p>And whereas further the Petitioners and very many others (in whoſe name and behalfe they now humbly ſupplicate) deſirous in all things to ſubmit to the Lawes ſo far as poſſibly they may, yet, meerly out of tenderneſſe and ſcruple of conſcience, dare not continue (as formerly they did) the uſe and exerciſe of ſome things, as now they ſtand enjoyned, not onely becauſe they have more ſeriouſly weighed the nature and ſcandall of them, and that ſundry Biſhops, and other grave Divines, called to their aſ<g ref="char:EOLhyphen"/>ſiſtance, by Order of the Houſe of Peeres, have (as they are informed) diſcovered divers particulars needing alteration in the <hi>Liturgy,</hi> and the uſe thereof; and that there is not, as they humbly conceive, at this day commonly extant any Booke of Common-Prayer, without ſo many variations, alterations, and additions, as render it in many parts another thing from that which was by Law eſtabliſhed; but chiefely becauſe you alſo have vouchſafed to be ſo far ſenſible of the defects thereof, and of the juſt ſcru<g ref="char:EOLhyphen"/>ples of the Petitioners thereabout, as to take the reformation thereof under conſideration, which they hoped would be ſome ſhelter againſt the ſtrict preſſing the uſe of it, till your pleaſure, upon the full debate thereof, had beene declared in a Parliamentary way; for that it ſeemes moſt equall that the Conſciences of men ſhould not beforced upon that which a Parliament it ſelfe holds needfull to conſider the Reformation of, and to give Order in, till the ſame be accordingly done. And the Petitioners having been comfortably aſſured of ſome eaſe therein, doe now, to their great ſorrow, apprehend that the ſame things are a new reinforced, which (contrary to the bleſſed inclination and intention of his moſt Gracious Majeſty) may occaſion much trouble and vexation to ſundry worthy and peaceable Miniſters: which the Petitioners have more cauſe to feare, becauſe ſundry of their Brethren, have, ſince the beginning of this Parliament, beene indicted upon the <hi>Stat.</hi> of 1. <hi>Eliz.</hi> 2. and others threatned for bare omiſſions of ſomethings complained of to this high Court, and ſtill depending before you; whiles, in divers places, your Religious Orders neceſſarily made and publiſhed for remo<g ref="char:EOLhyphen"/>ving of things illegall, are not obſerved; and, in other places, where ſome ſuperſtitious rites and practiſes had by vertue thereof, beene laid aſide, the ſame are againe called backe and repractiſed, without any check or animadverſion.</p>
+            <p>And becauſe the premiſſes are of extraordinary conſequence, and cannot receive a perfect Cure but by authority of Parliament: and that a free <hi>Synod</hi> of this Nation, diffe<g ref="char:EOLhyphen"/>ring in the whole Conſtitution from the preſent <hi>Convocations</hi> of the Clergy now in uſe among us, might be (as the Petitioners apprehend) of great uſe for that purpoſe; and, that not onely this, but all other your great Conſultations might be much furthered by a more earneſt and aſſiduous ſeeking of God by the joynt and publique <hi>Faſting</hi> and Prayers of the whole Kingdome in theſe ſad times ſo full of diſtractions and helliſh Conſpiracies at home, and bloudy cruelties of thoſe Popiſh Rebels againſt <hi>our owne fleſh and our bones</hi> in <hi>Ireland.</hi>
+            </p>
+            <p>The Petitioners humbly pray that you would vouchſafe to lay hold upon the firſt opportunity, that your important affaires will permit, of reaſſuming in<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap> your further conſideration their former <hi>Petition,</hi> and to proceed thereupon as you ſhall finde cauſe, either by committing the ſame to the debate and diſquiſition of a free <hi>Synod,</hi> or otherwiſe; And in the meane time to become Mediators to his gratious Majeſty (who could not take notice of their former Petition to this honou<g ref="char:EOLhyphen"/>rable Houſe) for ſome relaxation in matters of <hi>Ceremonies,</hi> and of reading of the whole <hi>Liturgy,</hi> which, as the Petitioners verily beleeve and hope to prove, have beene of late times urged further than ever the Law intended: and that a free <hi>Synod</hi> of Grave, Learned, and Judicious Divines of this <hi>Kingdome,</hi> the <hi>Dominion of Wales,</hi> and the <hi>Iſlands</hi> adjacent, may be by authority of Parliement indicted, for the more through and fruitfull debate of the premiſſes, to expedite a full Reformation by the high Court of Parliament, for the ſetling of a godly and religious Order and Government in this Church, as your Wiſdome ſhall finde convenient: And that a publique <hi>Faſt</hi> may be commanded and religiouſly obſerved throughout the Kingdome, once in every moneth, during your ſitting in Parliament, for the more effectuall procuring of Gods protection of your perſons, and of his bleſſing upon your proceedings; and till the miſeries of our brethren in <hi>Ireland</hi> bee happily put to an end.</p>
+            <p>And the Petitioners ſhall be ready further to attend the pleaſure of this Houſe with their reaſons of their preſent ſuite for a free <hi>Synod</hi> of this Nation, and of a new Conſtitution thereof differing from thoſe now in being, when they ſhall be required; and, to pray without ceaſing, &amp;c.</p>
+         </div>
+         <div type="endorsement">
+            <p>This <hi>Petition</hi> was preſented by the Miniſters themſelves, and afterwards read, and well accepted in the Houſe, <hi>Decemb.</hi> 20. 1641.</p>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>Iohn Bellamie</hi> and <hi>Ralph Smith.</hi> 1641.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
